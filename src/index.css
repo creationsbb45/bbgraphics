@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&family=Poppins:wght@300;400;500;600&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+/* profile section start */
+p {
+  color: rgb(85, 85, 85);
+}
+
+.p1 {
+  font-size: 1.75rem;
+}
+
+.p2 {
+  font-size: 3rem;
+  font-weight: 700;
+  color: black;
+}
+
+.p3 {
+  font-size: 2.3rem;
+  font-weight: 400;
+}
+
+.btn {
+  height: 60px;
+  width: 150px;
+  border-radius: 10px;
+}
+
+
+/* profile section end */
